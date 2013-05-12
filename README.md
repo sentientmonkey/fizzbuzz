@@ -12,6 +12,11 @@ C
 
 My approach here was to use again to use functions for fizz & buzz (for extensibility). One of the common dynamic programming approaches in C is to use a dispatch table of function pointers. I also wanted to show here how C can be a very functional language. The only downside for this solution is having to pass in char buffers. This avoids memory leaks and is very efficient, but ends up meaning that parameters end up being use for return values (really not a fan of this).
 
+javascript
+----------
+
+My approach here for the fizz/buzz functions was to throw them in an array an use the map function to call each. The end result is very function and pretty flexible. This shows of how nice & clean javascript's function pointers are to work with. I like that javascript is a function language hiding in AGOL's clothing.
+
 TODO
 ----
 
