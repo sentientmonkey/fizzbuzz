@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby -w
+
 class Bazinator
   attr_accessor :range
 
