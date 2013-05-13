@@ -17,6 +17,11 @@ javascript
 
 My approach here for the fizz/buzz functions was to throw them in an array an use the map function to call each. The end result is very function and pretty flexible. This shows of how nice & clean javascript's function pointers are to work with. I like that javascript is a function language hiding in AGOL's clothing.
 
+Clojure
+-------
+
+Lisp is..., well...
+
 TODO
 ----
 
