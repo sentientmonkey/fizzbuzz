@@ -1,3 +1,9 @@
 *.swp
 *.swo
 .DS_Store
+.metadata
+*.class
+c/fizz_buzz
+.classpath
+.project
+.settings
